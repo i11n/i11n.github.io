@@ -1,4 +1,0 @@
-# IntegerEleven
-
-## Projects
-* [lvn](./lvn)
